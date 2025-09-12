@@ -1,0 +1,1 @@
+This project implements a real-time, model-free framework for long-term voltage stability assessment in power systems using Phasor Measurement Unit (PMU) data. The approach combines optimal PMU placement, Jacobian estimation via regression, modal analysis, and stability indices to monitor system health and prevent blackouts.
